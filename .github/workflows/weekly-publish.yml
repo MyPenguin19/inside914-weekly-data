@@ -1,0 +1,30 @@
+name: Weekly Inside914 Publish
+
+on:
+  schedule:
+    - cron: "0 5 * * 1" # Mondays 5am UTC
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run weekly publisher
+        run: node .github/scripts/publish.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "inside914-bot"
+          git config user.email "bot@inside914.com"
+          git add current.json used.json
+          git commit -m "Weekly Inside914 Home Risk Report"
+          git push
