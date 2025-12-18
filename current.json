@@ -1,13 +1,7 @@
 {
-  "date": "2025-01-13",
-  "type": "mistake",
-  "title": "The $5,000 Homeowner Mistake",
-  "edition": "Westchester Edition · January 13, 2025",
-  "mistake": "Ignoring short-cycling heat because it still works.",
-  "why_now": "Early winter cold snaps stress systems that haven’t fully stabilized yet.",
-  "escalation": "$300–$500 adjustment → $5,000+ mid-winter repair.",
-  "warning": "Heat turning on and off every few minutes or uneven room temperatures.",
-  "insight": "We see this pattern every winter in older Westchester homes.",
-  "cta": "Text Inside914 before this turns expensive."
+  "headline": "⚠️ When Your Heat “Still Works” — But Won’t for Long",
+  "mistake": "🔥 Ignoring short-cycling heat because the house still feels warm.",
+  "escalation": "A $300–$500 adjustment quietly turns into a $5,000+ mid-winter repair.",
+  "warning": "Early sign: heat turns on and off every few minutes or rooms won’t heat evenly.",
+  "insight": "We see this every winter in Westchester homes."
 }
-
