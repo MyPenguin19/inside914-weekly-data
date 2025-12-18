@@ -1,4 +1,4 @@
-name: Weekly Inside914 Publish
+name: Weekly Publish
 
 permissions:
   contents: write
@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name "inside914-bot"
-          git config user.email "bot@inside914.com"
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
           git add current.json used.json
-          git commit -m "Weekly Inside914 Home Risk Report"
+          git commit -m "Weekly content update"
           git push
