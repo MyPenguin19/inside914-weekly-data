@@ -1,8 +1,11 @@
 name: Weekly Inside914 Publish
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 5 * * 1" # Mondays 5am UTC
+    - cron: "0 5 * * 1" # Mondays at 5am UTC
   workflow_dispatch:
 
 jobs:
