@@ -1,10 +1,10 @@
-# Inside914 Home Risk Report
+# Home Risk Report
 
 ### How the Weekly System Works (Do Not Modify Without Reading)
 
 ## What This Is
 
-The **Inside914 Home Risk Report** is a weekly, season-aware homeowner intelligence card.
+The **Home Risk Report** is a weekly, season-aware homeowner intelligence card.
 It highlights real, recurring home risks seen in Westchester homes — before they become expensive.
 
 This is **not** a blog, newsletter, or marketing post.
@@ -55,7 +55,7 @@ Every week, GitHub automatically:
 ## Repository Structure
 
 ```
-inside914-weekly-data/
+weekly-data/
 ├── spring/
 ├── summer/
 ├── fall/
