@@ -1,1 +1,8 @@
-
+{
+  "type": "risk",
+  "headline": "When Heat Works Most of the Time",
+  "mistake": "Ignoring inconsistent heating because some rooms stay warm.",
+  "escalation": "A $300 repair quietly turns into a $5,000 system failure during peak cold.",
+  "warning": "Early sign: radiators or vents heating unevenly.",
+  "insight": "This pattern shows up in Westchester homes during {season}."
+}
