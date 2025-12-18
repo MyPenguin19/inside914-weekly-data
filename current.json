@@ -1,8 +1,8 @@
 {
   "type": "risk",
-  "headline": "When Heat Works Most of the Time",
-  "mistake": "Ignoring inconsistent heating because some rooms stay warm.",
-  "escalation": "A $300 repair quietly turns into a $5,000 system failure during peak cold.",
-  "warning": "Early sign: radiators or vents heating unevenly.",
+  "headline": "When Boilers Short-Cycle on Cold Days",
+  "mistake": "Assuming frequent cycling is normal in freezing weather.",
+  "escalation": "A $250 control issue quietly turns into a $5,000 boiler breakdown.",
+  "warning": "Early sign: heat turns on and off repeatedly.",
   "insight": "This pattern shows up in Westchester homes during {season}."
 }
