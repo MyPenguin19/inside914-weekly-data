@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Boilers Short-Cycle on Cold Days",
-  "mistake": "Assuming frequent cycling is normal in freezing weather.",
-  "escalation": "A $250 control issue quietly turns into a $5,000 boiler breakdown.",
-  "warning": "Early sign: heat turns on and off repeatedly.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Emergency heating calls rise after sustained cold snaps",
+  "signals": [
+    "HVAC techs — ignition failures during overnight freezes",
+    "Plumbers — frozen pipe calls tied to heat outages",
+    "Homeowners — space heaters filling heating gaps"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
