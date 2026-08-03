@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Window Units Are Doing All the Work",
-  "mistake": "Relying on portable or window AC to compensate for poor cooling.",
-  "escalation": "A $200 workaround quietly turns into $5,000 in system overload.",
-  "warning": "Early sign: multiple extension cords powering cooling devices.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Humidity complaints rise even without visible water",
+  "signals": [
+    "Waterproofers — moisture readings without leaks",
+    "HVAC techs — poor dehumidification performance",
+    "Homeowners — musty odors on hot days"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
