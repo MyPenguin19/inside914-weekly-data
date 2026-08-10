@@ -1,10 +1,8 @@
 {
-  "type": "pros",
-  "headline": "Humidity complaints rise even without visible water",
-  "signals": [
-    "Waterproofers — moisture readings without leaks",
-    "HVAC techs — poor dehumidification performance",
-    "Homeowners — musty odors on hot days"
-  ],
-  "insight": "These patterns tend to appear across Westchester homes during {season}."
+  "type": "risk",
+  "headline": "When the House Smells Different on Hot Days",
+  "mistake": "Assuming odors are seasonal or temporary.",
+  "escalation": "A $300 ventilation issue quietly turns into $5,000 in indoor air remediation.",
+  "warning": "Early sign: smells that worsen during heat.",
+  "insight": "This pattern shows up in Westchester homes during {season}."
 }
